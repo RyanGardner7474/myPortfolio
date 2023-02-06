@@ -1,0 +1,136 @@
+/* CSS Document */
+
+*, *:active {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+body {
+	background-color: #e4f2ea;
+	
+}
+
+header {
+	min-height:300px;
+	background-image:url( "../images/home_beagle.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.headnav {
+	padding:5px 0;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.headnav ul{
+	display:block;
+	text-align: center;
+}
+
+.headnav ul li {
+	display:inline-block;
+	list-style-type: none;
+	width:15%;
+	margin-top: .8%;
+}
+
+.headnav a {
+	color:#e4f2ea;
+	text-decoration: none;
+	font-size:1.5em;
+}
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+
+blockqoute {
+	
+}
+
+table {
+	
+}
+
+
+.footnav {
+	
+	margin-top:430px;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.footnav ul{
+	display:block;
+	text-align: center;
+}
+
+.footnav ul li {
+	display:inline-block;
+	list-style-type: none;
+	width:12%;
+	margin-top: .8%;
+}
+
+.footnav a {
+	color:#e4f2ea;
+	text-decoration: none;
+	font-size:1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
