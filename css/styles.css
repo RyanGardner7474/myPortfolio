@@ -1,3 +1,12 @@
+/* CSS Document */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap'); /*font-family: 'Titillium Web', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); /*font-family: 'Roboto', sans-serif;*/
+
+
+
+
 *, *:before, *:after {
     box-sizing: inherit;
     padding: 0;
@@ -5,15 +14,59 @@
     border:0;
 }
 
+body {
+	background-color:#FEFEFE;
+	height:1500px;
+}
 
-
-h1 {
+img {
+    position: relative;
+    width:100%;
     text-align: center;
-    padding-right: 15%;
+    height: 100%;
+}
+
+
+h1{
+    z-index: 999;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    font-size: 4em;
+    width: 100%;
+    height: 26px;
+    margin: 0;
+    margin-top: -13px; /* 1/2 height */
+    text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color:#FEFEFE;
 }
 
 h2 {
+	z-index: 900;
+    position: absolute;
+    top: 60%;
+    left: 0;
+    right: 0;
+    font-size: 3em;
+    width: 100%;
+    height: 26px;
+    margin: 0;
+    margin-top: -13px; /* 1/2 height */
     text-align: center;
-    padding-right: 15%;
+	font-family: 'Titillium Web', sans-serif;
+	color:#FEFEFE;
 }
 
+.projcenter {
+	text-align: center;
+	height:50px;
+}
+
+a {
+	text-decoration: none;
+	color: #1C1C28;
+	font-family: 'Roboto', sans-serif;
+	font-size:1.1em;
+}
