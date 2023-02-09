@@ -41,8 +41,8 @@ h1{
     top: 50%;
     left: 0;
     right: 0;
-    font-size: 4em;
-    width: 70%;
+    font-size: 4.2em;
+    width: 75%;
     height: 26px;
     margin: 0;
     margin-top: -13px; /* 1/2 height */
@@ -57,8 +57,8 @@ h2 {
     top: 60%;
     left: 0;
     right: 0;
-    font-size: 3em;
-    width: 70%;
+    font-size: 3.2em;
+    width: 75%;
     height: 26px;
     margin: 0;
     margin-top: -13px; /* 1/2 height */
@@ -84,4 +84,5 @@ a {
 	font-size:25px;
 	background-image: url("../christmasprojreal/Banner.jpg");
 	padding: 100px 350px;
+	border-radius: 50px;
 }
