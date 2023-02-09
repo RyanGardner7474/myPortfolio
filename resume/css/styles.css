@@ -1,0 +1,42 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,600&display=swap');/*font-family: 'Raleway', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');/*font-family: 'Noto Serif', serif;*/
+
+body {
+	background-color: #FAFAFA;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3em;
+	color:#0A0A0A;
+}
+
+ul {
+	list-style-type: none;
+	font-family: 'Noto Serif', serif;
+	color:#0A0A0A;
+}
+
+h2 {
+	font-family: 'Noto Serif', serif;
+	font-size: 15px;
+	color:#0A0A0A;
+}
+
+table {
+	height:200px;
+	width: 400px;
+}
+
+th {
+	font-family: 'Noto Serif', serif;
+	color:#0A0A0A;
+}
+
+blockquote {
+	font-family: 'Noto Serif', serif;
+	font-weight:bold;
+	font-size:20px;
+	color:#0A0A0A;
+}
