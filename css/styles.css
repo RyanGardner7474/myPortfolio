@@ -16,7 +16,7 @@
 
 body {
 	background-color:#FEFEFE;
-	height:1500px;
+	height:1600px;
 }
 
 img {
@@ -24,6 +24,14 @@ img {
     width:100%;
     text-align: center;
     height: 100%;
+	margin-bottom: 200px;
+}
+
+p {
+	padding-bottom:50px;
+	text-align:center;
+	font-family: 'Titillium Web', sans-serif;
+	font-size:20px;
 }
 
 
@@ -34,7 +42,7 @@ h1{
     left: 0;
     right: 0;
     font-size: 4em;
-    width: 100%;
+    width: 70%;
     height: 26px;
     margin: 0;
     margin-top: -13px; /* 1/2 height */
@@ -50,7 +58,7 @@ h2 {
     left: 0;
     right: 0;
     font-size: 3em;
-    width: 100%;
+    width: 70%;
     height: 26px;
     margin: 0;
     margin-top: -13px; /* 1/2 height */
@@ -64,9 +72,16 @@ h2 {
 	height:50px;
 }
 
+blockquote {
+	color: #F2FFEF;
+	font-family: 'Titillium Web', sans-serif;
+}
+
 a {
 	text-decoration: none;
-	color: #1C1C28;
+	color: #F2FFEF;
 	font-family: 'Roboto', sans-serif;
-	font-size:1.1em;
+	font-size:25px;
+	background-image: url("../christmasprojreal/Banner.jpg");
+	padding: 100px 350px;
 }
