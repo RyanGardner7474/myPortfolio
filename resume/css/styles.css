@@ -32,6 +32,10 @@ table {
 	width: 400px;
 }
 
+.skills {
+	width:500px;
+}
+
 th {
 	font-family: 'Noto Serif', serif;
 	color:#0A0A0A;
