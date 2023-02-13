@@ -11,7 +11,7 @@ h1 {
 	font-size: 3em;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
-	margin-bottom:50px;
+	margin-bottom:100px;
 }
 
 h2 {
@@ -27,13 +27,13 @@ ul {
 	font-family: 'Noto Serif', serif;
 	font-weight:bold;
 	color:#0A0A0A;
-	margin-bottom:50px;
+	margin-bottom:100px;
 }
 
 table {
 	height: 200px;
 	width: 600px;
-	margin-bottom:50px;
+	margin-bottom:100px;
 }
 
 th {
@@ -48,5 +48,5 @@ blockquote {
 	font-size:20px;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
-	margin-bottom:25px;
+	margin-bottom:40px;
 }
