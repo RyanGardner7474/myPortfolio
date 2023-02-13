@@ -7,8 +7,7 @@ body {
 }
 
 .headnav {
-	padding:5px 0;
-	width: 100%;
+	width: 80%;
 	background-color: #11181e;
 	min-height: 20px;
 }
@@ -22,7 +21,6 @@ body {
 	display:inline-block;
 	list-style-type: none;
 	width:30%;
-	margin-top: .8%;
 }
 
 .headnav a {
