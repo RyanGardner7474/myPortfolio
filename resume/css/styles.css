@@ -28,15 +28,14 @@ h2 {
 }
 
 table {
-	height:200px;
-	width: 400px;
+	height: 200px;
+	width: 600px;
 }
 
 th {
 	font-family: 'Noto Serif', serif;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
-	width:600px;
 }
 
 blockquote {
