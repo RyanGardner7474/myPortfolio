@@ -35,6 +35,29 @@ img {
     bottom:20%;
 }
 
+.headnav {
+	width: 100%;
+	background-color: #cbcbcb;
+	min-height: 20px;
+}
+
+.headnav ul{
+	display:block;
+	text-align: center;
+}
+
+.headnav ul li {
+	display:inline-block;
+	list-style-type: none;
+	width:30%;
+}
+
+.headnav a {
+	color:#0A0A0A;
+	text-decoration: none;
+	font-size:1.5em;
+}
+
 p {
 	padding-bottom:50px;
 	text-align:center;
