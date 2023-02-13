@@ -90,7 +90,7 @@ a {
 	color: #2f2f2f;
 	font-family: 'Roboto', sans-serif;
 	font-size:25px;
-	background-image: url(/christmas22/Banner.jpg);
+	background-image: url(../christmas22/Banner.jpg);
 	padding: 100px 350px;
 	border-radius: 50px;
 }
