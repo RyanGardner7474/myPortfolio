@@ -11,13 +11,7 @@ h1 {
 	font-size: 3em;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
-}
-
-ul {
-	list-style-type: none;
-	font-family: 'Noto Serif', serif;
-	color:#0A0A0A;
-	background-color: #cbcbcb;
+	padding-bottom:50px;
 }
 
 h2 {
@@ -27,9 +21,18 @@ h2 {
 	font-weight:bold;
 }
 
+ul {
+	list-style-type: none;
+	font-family: 'Noto Serif', serif;
+	color:#0A0A0A;
+	background-color: #cbcbcb;
+	padding-bottom:50px;
+}
+
 table {
 	height: 200px;
 	width: 600px;
+	padding-bottom:50px;
 }
 
 th {
@@ -44,4 +47,5 @@ blockquote {
 	font-size:20px;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
+	padding-bottom:50px;
 }
