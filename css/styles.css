@@ -32,7 +32,8 @@ img {
     position: absolute;
     width:20%;
     height: 28%;
-    left:20%;
+    right:20%;
+    bottom:20%;
 }
 
 p {
