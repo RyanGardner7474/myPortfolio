@@ -17,12 +17,14 @@ ul {
 	list-style-type: none;
 	font-family: 'Noto Serif', serif;
 	color:#0A0A0A;
+	background-color: #cbcbcb;
 }
 
 h2 {
 	font-family: 'Noto Serif', serif;
 	font-size: 15px;
 	color:#0A0A0A;
+	background-color: #cbcbcb;
 }
 
 table {
@@ -33,6 +35,7 @@ table {
 th {
 	font-family: 'Noto Serif', serif;
 	color:#0A0A0A;
+	background-color: #cbcbcb;
 }
 
 blockquote {
@@ -40,4 +43,5 @@ blockquote {
 	font-weight:bold;
 	font-size:20px;
 	color:#0A0A0A;
+	background-color: #cbcbcb;
 }
