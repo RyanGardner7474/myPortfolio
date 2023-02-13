@@ -11,7 +11,7 @@ h1 {
 	font-size: 3em;
 	color:#0A0A0A;
 	background-color: #cbcbcb;
-	padding-bottom:50px;
+	margin-bottom:50px;
 }
 
 h2 {
@@ -27,13 +27,13 @@ ul {
 	font-family: 'Noto Serif', serif;
 	font-weight:bold;
 	color:#0A0A0A;
-	padding-bottom:50px;
+	margin-bottom:50px;
 }
 
 table {
 	height: 200px;
 	width: 600px;
-	padding-bottom:50px;
+	margin-bottom:50px;
 }
 
 th {
