@@ -27,6 +27,18 @@ img {
 	margin-bottom: 200px;
 }
 
+.myself {
+    z-index: 999;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    width: 75%;
+    height: 26px;
+    margin: 0;
+    margin-top: -13px; /* 1/2 height */
+}
+
 p {
 	padding-bottom:50px;
 	text-align:center;
@@ -82,7 +94,7 @@ a {
 	color: #F2FFEF;
 	font-family: 'Roboto', sans-serif;
 	font-size:25px;
-	background-image: url("../christmasprojreal/Banner.jpg");
+	background-image: url("/images/Banner.jpg");
 	padding: 100px 350px;
 	border-radius: 50px;
 }
