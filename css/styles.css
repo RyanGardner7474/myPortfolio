@@ -30,6 +30,8 @@ img {
 .myself {
     z-index: 999;
     position: absolute;
+    width:20%;
+    height: 20%;
 }
 
 p {
@@ -43,10 +45,17 @@ p {
 h1{
     z-index: 999;
     position: absolute;
-   
-    width: 1008%;
-    height: 706px;
-    
+    top: 50%;
+    left: 0;
+    right: 0;
+    font-size: 4.2em;
+    width: 75%;
+    height: 26px;
+    margin: 0;
+    margin-top: -13px; /* 1/2 height */
+    text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color:#FEFEFE;
 }
 
 h2 {
