@@ -6,6 +6,31 @@ body {
 	background-color: #FAFAFA;
 }
 
+.headnav {
+	padding:5px 0;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.headnav ul{
+	display:block;
+	text-align: center;
+}
+
+.headnav ul li {
+	display:inline-block;
+	list-style-type: none;
+	width:15%;
+	margin-top: .8%;
+}
+
+.headnav a {
+	color:#e4f2ea;
+	text-decoration: none;
+	font-size:1.5em;
+}
+
 h1 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 3em;
