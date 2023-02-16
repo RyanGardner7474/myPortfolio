@@ -104,12 +104,14 @@ a {
     margin-bottom:100px;
 }
 
-
+.padd {
+    margin-top: 300px;
+}
 
 .beachimg {
     background-repeat: no-repeat;
     background-image: url(../beaches/images/home_Beach.png);
     text-align:center;
     height:50px;
-    padding: 100px 374px;
+    margin-bottom:100px;
 }
