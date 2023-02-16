@@ -1,0 +1,111 @@
+/* CSS Document */
+*, *:active {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+body {
+	background-color:#F7F7F7;
+}
+
+header {
+	min-height:350px;
+	background-image:url( "../images/home_Beach.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.trunkhead {
+	min-height:350px;
+	background-image:url("../images/trunkBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.shoalhead {
+	min-height:350px;
+	background-image:url("../images/ShoalBayEast.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.gracehead {
+	min-height:350px;
+	background-image:url("../images/GraceBayBeach.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.newshead {
+	min-height:350px;
+	background-image:url("../images/newsletter_Beach.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+nav {
+	padding:8px;
+	background-color:#212690;
+}
+
+ul {
+	display:block;
+	text-align: center;
+}
+
+ul li {
+	display:inline-block;
+	list-style-type: none;
+	width:15%;
+	padding-top: .8%;
+	padding-bottom: .8%;
+}
+
+a {
+	color:#e4f2ea;
+	text-decoration: none;
+	font-size:1.5em;
+}
+
+a:hover {
+	color:#FFF9D1;
+}
+
+h1 {
+	font-weight:bold;
+}
+
+h2 {
+	font-weight:bold;
+}
+
+p {
+	font-size: 1.2em;
+	font-weight:lighter;
+	padding:5px;
+}
+
+blockquote {
+	font-size:1.9em;
+	font-weight:bold;
+}
+
+table {
+	border: 2px solid #282828;
+	width:700px;
+}
+
+.fnav {
+	padding:3px 0;
+	margin-top: 400px;
+	background-color:#21269099;
+}
+
+
+.copyright {
+	background-color: #21269099;
+	color:#101625;
+	font-size: 0.8em;
+    font-weight:lighter;
+}
