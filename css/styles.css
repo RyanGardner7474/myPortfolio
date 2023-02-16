@@ -91,8 +91,15 @@ a {
 	color: #f1ffe9;
 	font-family: 'Roboto', sans-serif;
 	font-size:25px;
-	background-image: url(../christmas22/Banner.jpg);
 	padding: 100px 350px;
 	border-radius: 50px;
     margin-bottom: 200px;
+}
+
+.chrstimg {
+    background-image: url(../christmas22/Banner.jpg);
+}
+
+.beachimg {
+    background-image: url(../beaches/images/home_Beach.jpg);
 }
