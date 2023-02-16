@@ -99,6 +99,9 @@ a {
 .chrstimg {
     background-repeat: no-repeat;
     background-image: url(../christmas22/Banner.jpg);
+    text-align: center;
+    height:50px;
+    margin-bottom:100px;
 }
 
 .padd {
@@ -109,4 +112,6 @@ a {
     background-repeat: no-repeat;
     background-image: url(../beaches/images/home_Beach.jpg);
     text-align:center;
+    height:50px;
+    margin-bottom:100px;
 }
