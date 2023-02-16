@@ -97,9 +97,11 @@ a {
 }
 
 .chrstimg {
+    background-repeat: no-repeat;
     background-image: url(../christmas22/Banner.jpg);
 }
 
 .beachimg {
+    background-repeat: no-repeat;
     background-image: url(../beaches/images/home_Beach.jpg);
 }
