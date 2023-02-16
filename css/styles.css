@@ -101,6 +101,10 @@ a {
     background-image: url(../christmas22/Banner.jpg);
 }
 
+.padd {
+    margin-top: 300px;
+}
+
 .beachimg {
     background-repeat: no-repeat;
     background-image: url(../beaches/images/home_Beach.jpg);
