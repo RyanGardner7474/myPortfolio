@@ -106,6 +106,7 @@ a {
 
 .padd {
     margin-top: 300px;
+    color:#000000;
 }
 
 .beachimg {
@@ -128,7 +129,4 @@ a {
 
 .robloximg a {
     color:#000000;
-}
-nav {
-    height: 400px;
 }
