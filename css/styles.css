@@ -117,6 +117,15 @@ a {
     padding: 100px 390px;
 }
 
+.robloximg {
+    background-repeat: no-repeat;
+    background-image: url(../roblox/images/currency.webp);
+    text-align:center;
+    height:50px;
+    margin-bottom:100px;
+    padding: 100px 390px;
+}
+
 nav {
     height: 400px;
 }
