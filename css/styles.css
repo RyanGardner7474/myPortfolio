@@ -75,6 +75,11 @@ h2 {
 	color:#FEFEFE;
 }
 
+.resumetext {
+    float:left;
+    border:#000000
+}
+
 .projcenter {
 	text-align: center;
 	height:50px;
