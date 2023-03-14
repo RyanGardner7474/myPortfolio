@@ -50,13 +50,13 @@ ul {
 	font-family: 'Noto Serif', serif;
 	font-weight:bold;
 	color:#0A0A0A;
-	margin-bottom:100px;
+	margin-bottom:10px;
 }
 
 table {
 	height: 200px;
 	width: 600px;
-	margin-bottom:100px;
+	margin-bottom:10px;
 }
 
 th {
